@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "name": "Category A",
+      "tests": [
+        {
+          "name": "Test A1",
+          "questions": [
+            {
+              "text": "Vozač je:",
+              "isMultipleChoice": true,
+              "value": 2,
+              "answers": [
+                {
+                  "text": "svako lice koje se u saobraćaju na putu nalazi u vozilu;",
+                  "isCorrect": false
+                },
+                {
+                  "text": "lice koje na putu upravlja vozilom.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "text": "Another question...",
+              "isMultipleChoice": true,
+              "value": 3,
+              "answers": [
+                {
+                  "text": "Answer 1",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Answer 2",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Test A2",
+          "questions": [
+            {
+              "text": "Another test question...",
+              "isMultipleChoice": true,
+              "value": 1,
+              "answers": [
+                {
+                  "text": "Option 1",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Option 2",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category B",
+      "tests": [
+        {
+          "name": "Test B1",
+          "questions": [
+            {
+              "text": "Question in category B...",
+              "isMultipleChoice": true,
+              "value": 2,
+              "answers": [
+                {
+                  "text": "Correct answer",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Incorrect answer",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
